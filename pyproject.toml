@@ -130,12 +130,17 @@ dependencies = [
     "opensearch-py==2.7.1",
     "pluginlib==0.9.4",
     "click>=8.1.8",
+<<<<<<< HEAD
     "python-calamine>=0.4.0",
     "litellm>=1.74.15.post1",
     "flask-mail>=0.10.0",
     "lark>=1.2.2",
     "mammoth>=1.11.0",
     "markdownify>=1.2.0",
+=======
+    "torchvision>=0.21.0",
+    "torchaudio>=2.6.0",
+>>>>>>> 0dd24e0f4750a33e3701af88cd754ef03175a4c2
 ]
 
 [project.optional-dependencies]
